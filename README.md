@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @alien1403
 - 👀 I’m interested in programming, mathematics and physics. 
-- 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on...
 - 📫 How to reach me https://www.linkedin.com/in/razvanmihaihanghicel/
 
 <!---
