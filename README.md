@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @alien1403
+- 👋 Hi, I’m Razvan
 - 👀 I’m interested in programming, mathematics and physics. 
 - 📫 How to reach me https://www.linkedin.com/in/razvanmihaihanghicel/
 
