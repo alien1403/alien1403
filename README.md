@@ -1,7 +1,8 @@
+![](https://komarev.com/ghpvc/?username=alien1403&color=blue&style=flat-square)
 - 👋 Hi, I’m Razvan
 - 👀 I’m interested in programming, mathematics and physics. 
 - 📫 How to reach me https://www.linkedin.com/in/razvanmihaihanghicel/
-![](https://komarev.com/ghpvc/?username=alien1403&color=blue&style=flat-square)
+
 <!---
 alien1403/alien1403 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
