@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Razvan
-- 👀 I’m interested in programming, mathematics and physics. 
+- 👀 I’m interested in Machine Learning, Reinforcement Learning, Natural Language Processing.
 - 📫 How to reach me https://www.linkedin.com/in/razvanmihaihanghicel/
 - ![](https://komarev.com/ghpvc/?username=alien1403&color=blue&style=flat-square)
 <!---
