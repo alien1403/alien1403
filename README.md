@@ -53,12 +53,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/alien1403/alien1403/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/alien1403/count.svg?"  />
 </div>
