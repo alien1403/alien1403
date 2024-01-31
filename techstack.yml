@@ -1,0 +1,20 @@
+repo_name: alien1403/alien1403
+report_id: 0a6857d375170ceb21ef76a1c12aeb78
+version: 0.1
+repo_type: Public
+timestamp: '2024-01-31T09:00:35+00:00'
+requested_by: alien1403
+provider: github
+branch: main
+detected_tools_count: 1
+tools:
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/alien1403/alien1403
+  detection_source: Repo Metadata
